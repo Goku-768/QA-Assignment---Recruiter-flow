@@ -20,7 +20,7 @@ npx playwright show-report                    # open last HTML report
 
 ## What's covered
 
-**UI** (`tests/ui/maintest.spec.ts`)
+**UI** (`tests/ui/`)
 - Login — standard user and locked-out user
 - Cart — add items, check badge count, sort by price
 - Checkout — full flow from login to order confirmation
